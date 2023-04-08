@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Tranquility
+Comment=A theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Tranquility
+MetacityTheme=Tranquility
+ButtonLayout=menu:minimize,maximize,close

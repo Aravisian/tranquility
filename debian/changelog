@@ -1,0 +1,5 @@
+tranquility (1.1-21) bionic; urgency=medium
+
+  *  Fix-window-background-in FireFox
+
+ -- Neil Ross <aravisian@protonmail.com>  Sunday, 31 Oct 2021 06:38:40 -0500

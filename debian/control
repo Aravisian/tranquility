@@ -1,0 +1,16 @@
+Source: tranquility
+Section: xfce
+Priority: optional
+Maintainer: Neil R. Ross <aravisian@protonmail.com>
+Build-Depends: debhelper-compat (= 9)
+Standards-Version: 1.1-21
+Homepage: https://github.com/Aravisian
+
+Package: tranquility
+Section: xfce
+Priority: optional
+Depends: ${misc:Depends}
+XSBC-Original-Maintainer: Neil R. Ross <aravisian@protonmail.com>
+Architecture: all
+Description: gtk theme
+ tranquility theme for gtk and window managers
